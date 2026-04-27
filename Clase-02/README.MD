@@ -8,7 +8,7 @@
 
 ```sh
 git add class-01/_ref/* #Marco todos los archivos ques tan dentro de la carpeta _ref
-git add
+git add . # Este comando me sirve para marcar todos los archivos para luego hacer un commit
 ```
 
 > Hacemos un commit (Snapshot, instantanea)
