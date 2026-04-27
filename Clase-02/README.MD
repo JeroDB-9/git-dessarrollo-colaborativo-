@@ -26,3 +26,7 @@ git log --oneline
 # .gitignore
 Es un archivo que me permite indicarle a GIT que no quiero que la carpeta o el archivo sea controlado por Git
 
+# .gitkeep
+Es un archivo que me permite darle seguimiento a una carpeta que quiero sea parte del repo pero que este vacia.
+
+**Se hace de esta manera porque GIT no versiona carpetas vacias.**
