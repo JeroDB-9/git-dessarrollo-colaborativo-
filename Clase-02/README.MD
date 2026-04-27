@@ -30,3 +30,18 @@ Es un archivo que me permite indicarle a GIT que no quiero que la carpeta o el a
 Es un archivo que me permite darle seguimiento a una carpeta que quiero sea parte del repo pero que este vacia.
 
 **Se hace de esta manera porque GIT no versiona carpetas vacias.**
+
+<htpps://www.campusmvp.es/recursos/post/que-son-los-archivos-gitkeep-en-git.aspx?srsltid=AfmBOopAgwXq8qolbnQNfpXDO2-9Wjq75qVgDspc0HQpq16JJw2MUZz>
+
+# Ver la diferencia entre Wd y SA o LR
+
+```sh
+git diff
+```
+
+# Ver mas info. de un commit
+
+```sh
+git show<HASH>
+git show cb20a1a
+```
